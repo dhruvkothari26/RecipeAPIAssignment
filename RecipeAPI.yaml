@@ -5,7 +5,7 @@ info:
   description: A web application to manage favorite recipes.
 
 servers:
-  - url: http://localhost:8080/
+  - url: http://localhost:8080
 
 components:
   securitySchemes:
